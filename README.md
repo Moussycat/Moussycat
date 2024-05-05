@@ -6,7 +6,6 @@
 - 🔭 I’m currently studiying in France at ESEO Angers to be an engineer </br>
 - 🎓 I have my Bachelor in electronic and computing engineering </br>
 - 📫 How to reach me: on LinkedIn </br>
-- ⚡ Fun fact: I'm multipotentialite (I have many interests & creative pursuits) and doing a doctorate or thesis in power electronics on converters subject to EMC doesn't scare me ! </p>
 
 <h3 align="left"> Programmation 💬</h4>
 <p align="left">
