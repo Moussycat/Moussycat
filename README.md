@@ -3,7 +3,7 @@
 
 <h3 align="left"> About me ? </h3>
 <p align="left">
-- 🔭 I’m currently studiying in France at ESEO Angers to be an engineer </br>
+- 🔭 I’m currently studiying in France at ESEO Angers to be an electronics engineer </br>
 - 🎓 I have my Bachelor in electronic and computing engineering </br>
 - 📫 How to reach me: on LinkedIn </br>
 
