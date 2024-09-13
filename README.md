@@ -1,5 +1,5 @@
 <h1 align="center"> Hi ! I'm Louise POGU</h1>
-<h3 align="center">I'm a fourth year student in electronic and computing engineering</h3>
+<h3 align="center">I'm a fifth year student in electronic and computing engineering, specialised in electronics and connected object</h3>
 
 <h3 align="left"> About me ? </h3>
 <p align="left">
