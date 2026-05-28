@@ -1,17 +1,16 @@
 <h1 align="center"> Hi ! I'm Louise POGU</h1>
-<h3 align="center">I'm a fourth year student in electronic and computing engineering</h3>
-
+<h3 align="center">I'm a Electronics Hardware Engineer</h3>
 <h3 align="left"> About me ? </h3>
 <p align="left">
 - 🔭 I’m currently studiying in France at ESEO Angers to be an engineer </br>
-- 🎓 I have my Bachelor in electronic and computing engineering </br>
+- 🎓 I have a Bachelor in electronics and computing engineering and a Master degre with title in electronics and connected devices </br>
 - 📫 How to reach me: on LinkedIn </br>
 - ⚡ Fun fact: I'm multipotentialite (I have many interests & creative pursuits) and doing a doctorate or thesis in power electronics on converters subject to EMC doesn't scare me ! </p>
 
 <h3 align="left"> Programmation 💬</h4>
 <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="assets\img\c-original.svg" alt="c" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="assets\img\C++_Logo.svg" alt="cplusplus" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
