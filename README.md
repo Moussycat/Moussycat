@@ -22,7 +22,7 @@ This list give you a idea of **_technical skills_** I learned :
 - Power Electronics
 - Analog & Digital Electronics
 
-For more informations watch my [French Résume](docs\Louise_POGU_CV.pdf) and my [English Résume](docs\Louise_POGU_Resume.pdf)
+For more informations watch my [French Résume](./docs/Louise_POGU_CV.pdf) and my [English Résume](./docs/Louise_POGU_Resume.pdf)
 
 -----
 
@@ -30,7 +30,7 @@ For more informations watch my [French Résume](docs\Louise_POGU_CV.pdf) and my 
 
 ----
 
-:mailbox_with_no_mail: How to reach me? on [LinkedIn](www.linkedin.com/in/louise-pogu) or by email :email: <louise.pogu@gmail.com>
+:mailbox_with_no_mail: How to reach me? on [LinkedIn](https://www.linkedin.com/in/louise-pogu/) or by email :email: <louise.pogu@gmail.com>
 
 
 <h3 align="left"> Electronics Design 🧰</h4>
