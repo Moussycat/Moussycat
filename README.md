@@ -19,7 +19,9 @@ I am looking for a role where I can keep growing as an engineer, have fun by con
 
 :mortar_board: I have a **_Master degree with title in Electronics and Connected Devices_** and a **_Bachelor in Electronics and Computing Engineering_**. <br>
 
+
 For more informations watch my complete [French CV](./docs/Louise_POGU_CV.pdf) and my ![English Resume](https://github.com/Moussycat/Resume_Louise/releases)
+
 -----
 
 <h3 align="left"> Interests</h3>
