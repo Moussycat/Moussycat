@@ -5,28 +5,29 @@
 
 :star2: I’m a women in STEM
 
-**_Rigorous_** when I am working, I love **_communicate_** about multiple subject. **_Multidisciplinary collaboration_**, also **_openness on feedback_** with curiosity are some keys for a successfull challenge. <br>
+    I am Louise, an electronics engineer who enjoys *understanding how things work* and turning ideas into practical designs. I am particularly interested in *RF, analog electronics, PCB design and embedded systems, and I like being involved from the first calculations through to a working prototype. 
+      
+    My ability to *go into detail* and *quickly understanding new concepts* enables me to grasp the challenges of technologies and projects, and anticipate future questions and research needs.
+
+    I am naturally *curious* and enjoy *learning new technologies/techniques* by building and turning ideas into practical designs. I am also working on *electronics projects* in my free time. At the moment I am creating a Pomodoro timer from scratch to put on my desk and try out new technologies such as LVGL in the process.
+
+    I have always enjoyed sharing my knowledge and experience with others, whether by *teaching* or by *promoting women in STEM*.
+      
+    I am looking for a role where I can keep growing as an engineer, have fun by contributing to challenging projects and work with talented people driving innovation in electronics. <br>
 
 ---
 
-:mortar_board: I have a **_Master degre with title in Electronics and Connected Devices_** and a **_Bachelor in Electronics and Computing Engineering_**. <br>
+:mortar_board: I have a **_Master degree with title in Electronics and Connected Devices_** and a **_Bachelor in Electronics and Computing Engineering_**. <br>
 
-This list give you a idea of **_technical skills_** I learned :
-
-- Electronics Hardware design
-- Radio Frequency
-- Microwave circuits
-- Antenna
-- Embedded Systems (ESP32, ESP8266, STM32, Arduino)
-- Communication Protocols (LoRa, Bluetooth, BLE, RFID, SPI, I2C, UART)
-- Power Electronics
-- Analog & Digital Electronics
-
-For more informations watch my [French Résume](./docs/Louise_POGU_CV.pdf) and my [English Résume](./docs/Louise_POGU_Resume.pdf)
+For more informations watch my [French CV](./docs/Louise_POGU_CV.pdf) and my [English CV](./docs/Louise_POGU_Resume.pdf)
 
 -----
 
-:briefcase: I worked on differents companies to explore electronics field. From technician to R&D, I explored some issues with the aims of openness and improve my comprehension for all the contributor on a project.
+![brush](https://www.readmecodegen.com/api/social-icon?name=brush&size=96) Interests
+
+From the discipline of violin (5 years) to the spontaneity of theater (9 years), my artistic pursuits have shaped my *perseverance, adaptability, and attention to detail*.
+
+Whether I am painting with watercolors, baking cakes, or doing cross-stitch patterns, I feel fulfilled through *creativity, patience, and precision, qualities I draw on in every project.
 
 ----
 
