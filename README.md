@@ -13,7 +13,7 @@
 
     I have always enjoyed sharing my knowledge and experience with others, whether by *teaching* or by *promoting women in STEM*.
       
-    I am looking for a role where I can keep growing as an engineer, have fun by contributing to challenging projects and work with talented people driving innovation in electronics. <br>
+    I am looking for a role where I can keep growing as an engineer, have fun by contributing to challenging projects and work with talented people driving innovation in electronics.
 
 ---
 
@@ -23,7 +23,7 @@ For more informations watch my [French CV](./docs/Louise_POGU_CV.pdf) and my [En
 
 -----
 
-![brush](https://www.readmecodegen.com/api/social-icon?name=brush&size=96) Interests
+<h3 align="left"> Interests</h3>
 
 From the discipline of violin (5 years) to the spontaneity of theater (9 years), my artistic pursuits have shaped my *perseverance, adaptability, and attention to detail*.
 
