@@ -5,7 +5,7 @@
 
 :star2: I’m a women in STEM
 
-I am Louise, an electronics engineer who enjoys *understanding how things work* and turning ideas into practical designs. I am particularly interested in *RF, analog electronics, PCB design and embedded systems, and I like being involved from the first calculations through to a working prototype. 
+I am Louise, an electronics engineer who enjoys **understanding how things work* and turning ideas into practical designs. I am particularly interested in *RF, analog electronics, PCB design and embedded systems*, and I like being involved from the first calculations through to a working prototype. 
       
 My ability to *go into detail* and *quickly understanding new concepts* enables me to grasp the challenges of technologies and projects, and anticipate future questions and research needs.
 
