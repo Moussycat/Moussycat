@@ -5,15 +5,15 @@
 
 :star2: I’m a women in STEM
 
-    I am Louise, an electronics engineer who enjoys *understanding how things work* and turning ideas into practical designs. I am particularly interested in *RF, analog electronics, PCB design and embedded systems, and I like being involved from the first calculations through to a working prototype. 
+I am Louise, an electronics engineer who enjoys *understanding how things work* and turning ideas into practical designs. I am particularly interested in *RF, analog electronics, PCB design and embedded systems, and I like being involved from the first calculations through to a working prototype. 
       
-    My ability to *go into detail* and *quickly understanding new concepts* enables me to grasp the challenges of technologies and projects, and anticipate future questions and research needs.
+My ability to *go into detail* and *quickly understanding new concepts* enables me to grasp the challenges of technologies and projects, and anticipate future questions and research needs.
 
-    I am naturally *curious* and enjoy *learning new technologies/techniques* by building and turning ideas into practical designs. I am also working on *electronics projects* in my free time. At the moment I am creating a Pomodoro timer from scratch to put on my desk and try out new technologies such as LVGL in the process.
+I am naturally *curious* and enjoy *learning new technologies/techniques* by building and turning ideas into practical designs. I am also working on *electronics projects* in my free time. At the moment I am creating a Pomodoro timer from scratch to put on my desk and try out new technologies such as LVGL in the process.
 
-    I have always enjoyed sharing my knowledge and experience with others, whether by *teaching* or by *promoting women in STEM*.
+I have always enjoyed sharing my knowledge and experience with others, whether by *teaching* or by *promoting women in STEM*.
       
-    I am looking for a role where I can keep growing as an engineer, have fun by contributing to challenging projects and work with talented people driving innovation in electronics.
+I am looking for a role where I can keep growing as an engineer, have fun by contributing to challenging projects and work with talented people driving innovation in electronics.
 
 ---
 
