@@ -27,7 +27,7 @@ For more informations watch my complete [French CV](./docs/Louise_POGU_CV.pdf) a
 
 From the discipline of violin (5 years) to the spontaneity of theater (9 years), my artistic pursuits have shaped my *perseverance, adaptability, and attention to detail*.
 
-Whether I am painting with watercolors, baking cakes, or doing cross-stitch patterns, I feel fulfilled through *creativity, patience, and precision, qualities I draw on in every project.
+Whether I am painting with watercolors, baking cakes, or doing cross-stitch patterns, I feel fulfilled through *creativity, patience, and precision*, qualities I draw on in every project.
 
 ----
 
